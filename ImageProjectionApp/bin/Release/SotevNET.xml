@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>SotevNET</name>
+  </assembly>
+  <members>
+    <member name="M:SotevNET.LabVIEWExports.SotevMeassure(System.String,System.String,System.Int32,System.Int32@,System.Boolean@,System.Int32@,System.Int32@)">
+      <summary></summary>
+      <returns>System.Int32</returns>
+    </member>
+    <member name="M:SotevNET.LabVIEWExports.Low___45Level___32Snap(System.String,System.String,System.Int32@)">
+      <summary>The Snap VI acquires an image and displays the image in an image control using low-level acquisition VIs. A snap is appropriate for low-speed or single-capture applications in which ease of programming is essential.</summary>
+      <returns>System.Int32</returns>
+    </member>
+    <member name="M:SotevNET.LabVIEWExports.Localizador(System.String,System.String)">
+      <summary></summary>
+      <returns>System.Boolean</returns>
+    </member>
+    <member name="M:SotevNET.LabVIEWExports.UDPSend(System.UInt16,System.String)">
+      <summary></summary>
+      <returns>Void</returns>
+    </member>
+    <member name="M:SotevNET.LabVIEWExports.UDPReceiver(System.UInt16,System.String@)">
+      <summary></summary>
+      <returns>Void</returns>
+    </member>
+  </members>
+</doc>

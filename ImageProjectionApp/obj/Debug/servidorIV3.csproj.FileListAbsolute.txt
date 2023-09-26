@@ -1,0 +1,9 @@
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\servidorIV3.Form1.resources
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\servidorIV3.Properties.Resources.resources
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\servidorIV3.csproj.GenerateResource.Cache
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\bin\Debug\servidorIV3.exe.config
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\bin\Debug\servidorIV3.exe
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\bin\Debug\servidorIV3.pdb
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\servidorIV3.exe
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\servidorIV3.pdb
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\servidorIV3.csprojResolveAssemblyReference.cache

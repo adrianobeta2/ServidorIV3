@@ -1,0 +1,31 @@
+c:\users\adria\onedrive\documentos\visual studio 2015\Projects\ImageProjectionApp\ImageProjectionApp\bin\Debug\ImageProjectionApp.exe.config
+c:\users\adria\onedrive\documentos\visual studio 2015\Projects\ImageProjectionApp\ImageProjectionApp\bin\Debug\ImageProjectionApp.exe
+c:\users\adria\onedrive\documentos\visual studio 2015\Projects\ImageProjectionApp\ImageProjectionApp\bin\Debug\ImageProjectionApp.pdb
+c:\users\adria\onedrive\documentos\visual studio 2015\Projects\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.csprojResolveAssemblyReference.cache
+c:\users\adria\onedrive\documentos\visual studio 2015\Projects\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.Form1.resources
+c:\users\adria\onedrive\documentos\visual studio 2015\Projects\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.Properties.Resources.resources
+c:\users\adria\onedrive\documentos\visual studio 2015\Projects\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.csproj.GenerateResource.Cache
+c:\users\adria\onedrive\documentos\visual studio 2015\Projects\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.exe
+c:\users\adria\onedrive\documentos\visual studio 2015\Projects\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.pdb
+c:\users\adria\onedrive\documentos\visual studio 2015\Projects\ImageProjectionApp\ImageProjectionApp\bin\Debug\SotevNET.xml
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ImageProjectionApp\ImageProjectionApp\bin\Debug\ImageProjectionApp.exe.config
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.exe
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.pdb
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ImageProjectionApp\ImageProjectionApp\bin\Debug\ImageProjectionApp.exe
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ImageProjectionApp\ImageProjectionApp\bin\Debug\ImageProjectionApp.pdb
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ImageProjectionApp\ImageProjectionApp\bin\Debug\SotevNET.xml
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.csprojResolveAssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.Form1.resources
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.Properties.Resources.resources
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ImageProjectionApp\ImageProjectionApp\obj\Debug\ImageProjectionApp.csproj.GenerateResource.Cache
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\bin\Debug\ImageProjectionApp.exe.config
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\ImageProjectionApp.exe
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\ImageProjectionApp.pdb
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\bin\Debug\ImageProjectionApp.exe
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\bin\Debug\ImageProjectionApp.pdb
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\bin\Debug\SotevNET.xml
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\ImageProjectionApp.csprojResolveAssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\ImageProjectionApp.Form1.resources
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\ImageProjectionApp.Properties.Resources.resources
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\obj\Debug\ImageProjectionApp.csproj.GenerateResource.Cache
+C:\Users\adria\OneDrive\Documentos\~repositorio\VisualStudio\ServidorIV3\ImageProjectionApp\bin\Debug\servidorIV3.exe.config
